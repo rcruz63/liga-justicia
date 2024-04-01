@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Este mensaje ha sido editado directamente desde gitHub Web
+Este mensaje ha sido editado directamente desde GitHub Web
